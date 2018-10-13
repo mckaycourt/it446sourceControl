@@ -1,1 +1,1 @@
-console.log("This is the first commit!");
+console.log("This is the second commit. This will show that I know how to make changes and compare files.")
